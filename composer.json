@@ -1,10 +1,11 @@
 {
-    "name": "nwidart/history",
+    "name": "yuguanthor/laravel-history-log",
+    "type": "laravel-module",
     "description": "",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "YuGuan Thor",
+            "email": "yuguan.thor1027@gmail.com"
         }
     ],
     "extra": {
