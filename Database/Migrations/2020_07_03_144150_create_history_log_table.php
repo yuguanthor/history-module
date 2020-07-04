@@ -21,7 +21,7 @@ class CreateHistoryLogTable extends Migration
             $table->string('action',255);
             $table->string('type',255);
             $table->string('summary',500);
-            $table->text('change');
+            $table->text('log');
             $table->string('location',500);
         });
 
