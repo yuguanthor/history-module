@@ -9,6 +9,7 @@
         }
     ],
     "extra": {
+        "module-dir": "Custom",
         "laravel": {
             "providers": [
                 "Modules\\History\\Providers\\HistoryServiceProvider"
@@ -22,5 +23,8 @@
         "psr-4": {
             "Modules\\History\\": ""
         }
+    },
+    "require": {
+        "joshbrw/laravel-module-installer": "^0.1.4"
     }
 }
